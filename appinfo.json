@@ -1,0 +1,49 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ralfkieselbach@online.de",
+    "longName": "FirstWatchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/PebbleStrauss.png",
+                "name": "IMAGE_OSTRICH_0",
+                "type": "png"
+            },
+            {
+                "file": "images/LRUnionjack.png",
+                "name": "IMAGE_LRUNIONJACK_1",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            },
+            {
+                "file": "fonts/comic.ttf",
+                "name": "FONT_COMIC_30",
+                "type": "font"
+            },
+            {
+                "file": "fonts/JOKERMAN.TTF",
+                "name": "FONT_JOKERMAN_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "FirstWatchface",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "3825bd53-b731-4223-99ce-cc53c475a7ad",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
